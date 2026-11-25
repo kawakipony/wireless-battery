@@ -23,20 +23,12 @@
 
 ## 启动与打包
 
-### 直接运行
-- 双击 `dist\WirelessBatteryMonitor.exe`（绿色单文件，推荐），或双击源码目录下的 `run.pyw` / `start_silent.vbs`。
-
-### 命令行与自检
-```powershell
-# 运行全部单元测试
-python -m unittest discover -s E:\Workspace\wireless-battery\tests -v
-
-# 运行端到端自检（检测 UI 与真实外设发现轮询）
-python E:\Workspace\wireless-battery\run.py --smoke-test
-```
-
-### 重新打包单文件 `.exe`
+### 打包单文件 `.exe`
 双击 `build_exe.bat` 即可生成 `dist\WirelessBatteryMonitor.exe`。
+
+### 软件运行
+
+再双击生成的dist目录下面的WirelessBatteryMonitor.exe文件即可运行
 
 
 
@@ -55,3 +47,11 @@ python E:\Workspace\wireless-battery\run.py --smoke-test
 
 
 ![悬浮球](docs/images/image-20261125113717364.png)
+
+
+
+
+
+超低内存与零CPU占用！！！
+
+![image-20261125153554756](docs/images/6504f33e-955c-416e-8023-463a0a096471.png)
