@@ -1,0 +1,18 @@
+# Python 编译缓存与虚拟环境
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# PyInstaller 打包产物
+build/
+dist/
+*.spec
+
+# 本地运行时配置与历史电量数据
+data/
+
+# 编辑器临时文件
+.vscode/
+.idea/
