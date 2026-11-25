@@ -37,3 +37,21 @@ python E:\Workspace\wireless-battery\run.py --smoke-test
 
 ### 重新打包单文件 `.exe`
 双击 `build_exe.bat` 即可生成 `dist\WirelessBatteryMonitor.exe`。
+
+
+
+## 效果展示
+
+![image-20261125113633706](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20261125113633706.png)
+
+支持多种设置
+
+![image-20261125113643365](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20261125113643365.png)
+
+
+
+悬浮球效果
+
+
+
+![image-20261125113717364](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20261125113717364.png)
