@@ -42,11 +42,11 @@ python E:\Workspace\wireless-battery\run.py --smoke-test
 
 ## 效果展示
 
-![image-20261125113633706](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20261125113633706.png)
+![主面板](docs/images/image-20261125113633706.png)
 
 支持多种设置
 
-![image-20261125113643365](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20261125113643365.png)
+![设置界面](docs/images/image-20261125113643365.png)
 
 
 
@@ -54,4 +54,4 @@ python E:\Workspace\wireless-battery\run.py --smoke-test
 
 
 
-![image-20261125113717364](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20261125113717364.png)
+![悬浮球](docs/images/image-20261125113717364.png)
